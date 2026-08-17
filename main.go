@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("go-cli-tool is working!")
+	fmt.Println("go-cli-tool is working")
 }
