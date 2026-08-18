@@ -8,4 +8,6 @@ go run main.go
 
 ## Expected output
 
-go-cli-tool is working.
+go run main.go → Hello, World!
+
+go run main.go Alice → Hello, Alice!
